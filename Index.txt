@@ -1,5 +1,5 @@
 ## Index of source code examples:
 
-\Parse Folder with invoices To CSV
-\Parse invoice with OCR
-\Parse simple invoice
+\Parse Folder With Invoices To CSV
+\Parse Invoice With OCR
+\Parse Simple Invoice
